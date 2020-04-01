@@ -3,3 +3,4 @@ hello
 my name is Lee Sang Jun
 new new new new
 I'm 23 years old.
+I weigh 70kg
